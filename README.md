@@ -4,15 +4,6 @@
 
 
 <h4>Hi I am 💇‍♂️ , a passionate Blockchain | Cryptography | Web Software engineer from United States.<br/>I am a Self-taught software Developer. I have a profound knowledge in Solidity, Rust, Flutter/Dart, iOS/Android, Javascript & React | React Native & Next.js Framework. I love to work with new Technologies and like to learn new things everytime. Most recently, I'm researching ZK Proofs and I've developed several projects related to ZK Proofs.<h4>
-
- <table align="center" width="100%" height="100%" >
-   <tr>
-     <td> 
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=letusgittogether&theme=radical&show_icons=true&count_private=true&hide=prs) </td> 
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letusgittogether&theme=radical&layout=compact)](https://github.com/letusgittogether) </td>
-   </tr>
-  </table>
   
 
 
