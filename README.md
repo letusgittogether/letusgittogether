@@ -3,7 +3,7 @@
 <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>
 
 
-<h4>Hi I am 💇‍♂️ , a passionate Mobile | Web Software developer from United States.<br/>I am a Self-taught software Developer. I have a profound knowledge in Flutter/Dart, iOS/Android, Javascript & React | React Native & Next.js Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
+<h4>Hi I am 💇‍♂️ , a passionate Blockchain | Cryptography | Web Software engineer from United States.<br/>I am a Self-taught software Developer. I have a profound knowledge in Solidity, Rust, Flutter/Dart, iOS/Android, Javascript & React | React Native & Next.js Framework. I love to work with new Technologies and like to learn new things everytime. Most recently, I'm researching ZK Proofs and I've developed several projects related to ZK Proofs.<h4>
 
  <table align="center" width="100%" height="100%" >
    <tr>
