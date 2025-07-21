@@ -13,16 +13,16 @@
  <table width="100% height="100%" align="center">
    <tr>
       <td>
-        <img alt="flutter" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+        <img alt="Solidity" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
      </td>
      <td>
-      <img alt="dart" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+      <img alt="Noir" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/noir/noir-original.svg">
      </td>
           <td align="center">
-       <img alt="iOS" height=64px src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+       <img alt="ZoKrates" height=64px src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/zokrates/zokrates-original.svg">
      </td>
      <td align="center">
-        <img alt="android" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
+        <img alt="Nodejs" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
      </td>
      <td align="center">
        <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
